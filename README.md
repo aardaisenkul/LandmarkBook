@@ -2,12 +2,11 @@
 
 # Initial Screen
 
-![alt text](https://github.com/aardaisenkul/LandmarkBook/blob/main/main.png =250x250)
+<img src="https://github.com/aardaisenkul/LandmarkBook/blob/main/main.png" width="250" >
 
 # Detail Screen
 
-
-![alt text](https://github.com/aardaisenkul/LandmarkBook/blob/main/detail.png =250x250)
+<img src="https://github.com/aardaisenkul/LandmarkBook/blob/main/detail.png" width="250">
 
 # Developed by: Ali Arda İsenkul
 # Innova IOS Bootcamp
